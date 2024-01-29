@@ -11,7 +11,8 @@ module.exports = {
         "ungu" : '#5D50C6',
         "pink" : '#F85E9F',
         "oren" : '#FF5722',
-        "grey" : '#191825'
+        "grey" : '#191825',
+        "kuning" : '#FACD49'
       },
       dropShadow : {
         "my-shadow" : [
